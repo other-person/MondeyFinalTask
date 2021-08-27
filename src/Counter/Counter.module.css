@@ -21,6 +21,10 @@ section {
     font-weight: 600;
     color: #1c3131;
 }
+.numbers_window_last {
+
+    color: #a91919;
+}
 .wrapper_buttons {
     display: flex;
     justify-content: space-around;
